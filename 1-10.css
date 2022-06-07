@@ -69,24 +69,25 @@ footer {
   header {
     width: 100%;
     height: 50px;
-    padding-bottom: 30px;
+    margin-bottom: 50px
   }
   
   main {
     width: 100%;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
+    
+    display: block;
   }
   
   .step-box {
     width: 90%;
-    padding-top: 20px;
-  }
+    margin-top: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+    }
   
   footer {
     width: 100%;
     height: 50px;
-    padding-top: 50px;
+    margin-top: 50px;
   }
 }
